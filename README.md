@@ -27,9 +27,13 @@ Dijkstra's Algorithm Implementation is a Python script that calculates the short
     - Path: Sequence of nodes representing the shortest path from the source node.
 
 **Example**
+
+
 ![Screenshot 2024-06-03 000343](https://github.com/nouran555/Dijkstra-s-Algorithm---Shortest-Path-Finder/assets/129008133/2412c23d-a7ec-45ec-bbfe-46e921bda8ca)
 
 **and the output test**
+
+
 ![Screenshot 2024-06-03 000425](https://github.com/nouran555/Dijkstra-s-Algorithm---Shortest-Path-Finder/assets/129008133/116c1e03-d1c1-4f70-9423-611e263c5fb1)
 
 
